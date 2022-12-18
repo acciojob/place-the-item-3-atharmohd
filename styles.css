@@ -1,2 +1,23 @@
 
+.holder{
+    display: flex;
+    border: 2px solid black;
+    background-color: antiquewhite;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.flex-container{
+    display: flex;
+    border: 2px solid black;
+    background-color: antiquewhite;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.item{
+    border: 2px solid black;
+    padding: 75px;
+    background-color:aquamarine;
+}
 /* Your CSS Code here. */
